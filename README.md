@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1QHBOicorVUbkiJMaZqLLUNDtR0A9osYi/view?usp=sharing](https://drive.google.com/file/d/1QHBOicorVUbkiJMaZqLLUNDtR0A9osYi/view?usp=sharing)
 
-- ⚡ Fun fact **I think I am a curious person , who is always interested to know about the implementations behind the working of some amazing engineering skills like peer-to-peer chats, Location based tracking, suggestions generation using AI etc.I always look towards learning new things everyday, and enjoying what I do :)**
+- ⚡ Fun fact ** I am always interested in learning the working behind some of the amazing engineering ideas , and implementing them and enjoying what I do :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
