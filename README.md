@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anand S Pai</h1>
-<h3 align="center">Backend engineer with 3+ years of experience in building highly scalable and distributed systems, APIs and message delivery pipelines.</h3>
+<h3>Backend engineer with 3+ years of experience in building highly scalable and distributed systems, APIs and message delivery pipelines.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anandp201&label=Profile%20views&color=0e75b6&style=flat" alt="anandp201" /> </p>
 
