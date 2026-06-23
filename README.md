@@ -5,13 +5,13 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anandp201" alt="anandp201" /></a> </p> -->
 
-- 🔭 I’m currently working on [Ratelimex](https://github.com/AnandP201/ratelimex)
+- 🔭 I’m currently working on [Ratelimex](https://github.com/AnandP201/ratelimex) project
 
 - 🌱 I’m currently learning **JAVA SpringBoot , Building real-time agents using AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AnandP201](https://github.com/AnandP201)
 
-- 💬 Ask me about **Backend development, React, Database and System design**
+- 💬 Ask me about **Scalable systems, Backend development, Database and System design**
 
 - 📫 How to reach me **anandspai.2001@gmail.com**
 
